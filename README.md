@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Buhari
 - 👀 I’m interested in learning Front-End Development
 - 🌱 I’m currently learning how to develop small project
-- 💞️ I’m looking to collaborate on a Webpages and webapps projects
+- 💞️ I’m looking to collaborate on a webpages and webapps projects
 - 📫 How to reach me; buhareeameenu2@gmail.com
 
 <!---
